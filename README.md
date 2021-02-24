@@ -1,6 +1,6 @@
-# Pinsel
+# Mecenart
 
-Pinsel is a fully decentralized art licensing and backing platform which aims to provide lower comission costs and reduce infrastructure expenses by utilizing p2p protocols such as [IPFS](https://ipfs.io/) and [Ethereum](https://www.ethereum.org/) Blockchain.
+MecenArt is a fully decentralized art licensing and backing platform which aims to provide lower commission costs and reduce infrastructure expenses by utilizing p2p protocols such as [IPFS](https://ipfs.io/) and [Ethereum](https://www.ethereum.org/) Blockchain.
 
 ## How it Works
 
